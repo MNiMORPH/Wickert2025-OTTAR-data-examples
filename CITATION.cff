@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use these results, channel-width data, and/or software files, please cite them as below."
+authors:
+- family-names: "Wickert"
+  given-names: "Andrew D."
+  orcid: "https://orcid.org/0000-0002-9545-3365"
+- family-names: "Jones"
+  given-names: "Jabari C."
+  orcid: "https://orcid.org/0000-0002-9809-285X"
+title: "Wickert2025-OTTAR-data-examples"
+version: 1.0.0
+doi: 
+date-released: 2025-06-15
+url: "https://github.com/MNiMORPH/Wickert2025-OTTAR-data-examples"
