@@ -8,7 +8,7 @@ Example [OTTAR](https://github.com/MNiMORPH/OTTAR) model outputs from:
 
 These folders include the best-fitting model results, simulated with the help of [DAKOTA](https://dakota.sandia.gov/), alongside configuration files to reproduce these best-fitting results and test parameter sensitivity.
 
-The spreadsheet contains source data alongside computed mean and standard-deviation channel widths for the Minnesota River, the Cannon River, and Diamond Fork. Mean and standard deviation widths for the Green River are from Walker et al. (2020).
+The spreadsheet contains source data alongside computed mean and standard-deviation channel widths for the Minnesota River, the Cannon River, and Diamond Fork. Mean and standard deviation widths for the Green River are from Walker et al. (2020). Data for Diamond Fork are from Jones (2018) and measurements made by A. Wickert in Google Earth along the same river cross sections.
 
 ## Licenses
 
@@ -16,4 +16,6 @@ The supplied GNU GPL v3 license applies to the software and configuration files.
 
 ## References
 
-Walker, A. E., Moore, J. N., Grams, P. E., Dean, D. J., & Schmidt, J. C. (2020). Channel narrowing by inset floodplain formation of the lower Green River in the Canyonlands region, Utah. GSA Bulletin, 132(11-12), 2333-2352.
+Jones, J. C., Stout, J. B., Belmont, P., Blythe, T. L., & Wilcock, P. R. (2023). A century of channel change caused by flow augmentation on Sixth Water Creek and Diamond Fork River, Utah, USA. Earth Surface Processes and Landforms, 48(10), 2057-2078.
+
+Jones, J. C. (2018). Historical channel change caused by a century of flow alteration on Sixth Water Creek and Diamond Fork River, UT (Master's thesis, Utah State University).
